@@ -89,7 +89,7 @@ plt.legend()
 plt.title("ARMA(2,2) Fit")
 plt.grid()
 plt.show()
-
+```
 ### OUTPUT:
 
 <img width="873" height="520" alt="image" src="https://github.com/user-attachments/assets/84afc942-73db-4b34-9cea-4950e2fb587e" />
